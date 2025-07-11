@@ -1,0 +1,9 @@
+/* latin */
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: optional;
+  src: url(https://assets.pharmeasy.in/web-assets/images/fonts/Inter-subset.woff2) format("woff2");
+  unicode-range: U+0020-007F, U+201C, U+201D, U+00A;
+}
